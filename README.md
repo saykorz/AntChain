@@ -7,7 +7,7 @@
 </head>
 <body>
 <div style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; color: #f0f0f0; background-color: #121212; padding: 30px; border-radius: 12px;">
-  <h1 style="text-align: center; font-size: 2.4em;">🐜 AntChain — Time-Proof Your Truth</h1>
+  <h1 style="text-align: center; font-size: 2.4em;"><img src="https://i.ibb.co/xKVKS4yf/181x181.png" width="28" height="28" alt="AntChain — Time-Proof Your Truth"></img> AntChain — Time-Proof Your Truth</h1>
 
   <hr style="border-color: #444;" />
 
